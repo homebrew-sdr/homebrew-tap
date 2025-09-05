@@ -1,4 +1,4 @@
-# Homebrew-sdr Tap
+# homebrew-sdr/tap
 
 ## How do I install these formulae?
 
